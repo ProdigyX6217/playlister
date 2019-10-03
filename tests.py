@@ -7,7 +7,8 @@ sample_playlist = {
     'description': 'Cats acting weird',
     'videos': [
         'https://youtube.com/embed/hY7m5jjJ9mM',
-        'https://www.youtube.com/embed/CQ85sUNBK7w'
+        'https://www.youtube.com/embed/CQ85sUNBK7w',
+        'https://www.youtube.com/embed/8DPc2z9ZPDY'
     ]
 }
 sample_form_data = {
